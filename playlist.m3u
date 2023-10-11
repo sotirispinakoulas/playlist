@@ -3,8 +3,17 @@
 #EXTINF:123, ClubFM
 http://stream.zeno.fm/795qgvsrknruv.pls
 
-#EXTINF:124, LoopsRadio
+#EXTINF:124, LoopsRadio Progressive
 https://ssl190.ozelip.com/asistan/stream/592d1829a29021cb2d68538b3238f88e
+
+#EXTINF:124, LoopsRadio Melodic
+https://radyo1.radyo-dinle.tc/8218/stream
+
+#EXTINF:124, LoopsRadio Techno
+https://ip179.ozelip.com/7688//asistan/stream/
+
+#EXTINF:124, LoopsRadio Trance
+https://radyo1.radyo-dinle.tc/8244/stream
 
 #EXTINF:125, Technolocos
 https://radio.technolocos.net/listen/technolocos/radio.mp3
